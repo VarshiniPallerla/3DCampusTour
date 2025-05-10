@@ -1,4 +1,4 @@
-# 🏫 3D Campus Simulation using OpenGL
+# 3D Campus Simulation using OpenGL
 
 The **3D graphical representation of a university campus** project is a computer graphics application developed using **OpenGL** to simulate a realistic and interactive tour of a college campus. The primary objective is to provide users with a dynamic visualization of campus life, including moving students, vehicles, and interconnected roads.
 
@@ -76,3 +76,21 @@ The project is lightweight and runs on standard hardware with OpenGL support. It
 ### Steps:
 1. Open the project in your IDE (e.g., Code::Blocks, Visual Studio).
 2. Build and run.
+
+## Output Images
+![image](https://github.com/user-attachments/assets/60741c10-9850-4b5b-a993-aaeb0162575d)
+![image](https://github.com/user-attachments/assets/1dfe032d-b3e1-4186-b48e-8c33162576ec)
+![image](https://github.com/user-attachments/assets/5b350c55-29c5-4f7e-be0d-b9441bc23921)
+![image](https://github.com/user-attachments/assets/f20eee1f-f34f-4118-acb0-f7cb34633d7e)
+![image](https://github.com/user-attachments/assets/d0ebf4e7-38c6-4b5b-8e7d-331517aeb199)
+![image](https://github.com/user-attachments/assets/9f803d0a-cb4c-44a7-b669-1fe9dacd31dc)
+![image](https://github.com/user-attachments/assets/33ba87f7-8707-45cc-9403-2d01c338a193)
+![image](https://github.com/user-attachments/assets/be69ae93-c2b3-4442-a695-d28079f020d5)
+
+
+
+
+
+
+
+
